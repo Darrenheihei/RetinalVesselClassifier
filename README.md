@@ -14,9 +14,6 @@ Your choice(s):  2, 23, 150
 
 The corresponding outputs are
 
-2:
 ![image](https://github.com/Darrenheihei/RetinalVesselClassifier/assets/143731040/85449659-e3ee-4204-a830-1264128e9628)
-23:
 ![image](https://github.com/Darrenheihei/RetinalVesselClassifier/assets/143731040/553e64d1-b0a5-4531-b06a-761c1ba31571)
-150:
 ![image](https://github.com/Darrenheihei/RetinalVesselClassifier/assets/143731040/bdd7b714-d253-41b9-aae6-2f889b43e2cb)
