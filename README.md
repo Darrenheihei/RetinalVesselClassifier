@@ -13,6 +13,7 @@ Your choice(s):  2, 23, 150
 ```
 
 The corresponding outputs are
+
 2:
 ![image](https://github.com/Darrenheihei/RetinalVesselClassifier/assets/143731040/85449659-e3ee-4204-a830-1264128e9628)
 23:
